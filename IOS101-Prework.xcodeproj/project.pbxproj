@@ -13,7 +13,6 @@
 		159206F02B709337001B8107 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 159206EE2B709337001B8107 /* Main.storyboard */; };
 		159206F22B709339001B8107 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 159206F12B709339001B8107 /* Assets.xcassets */; };
 		159206F52B709339001B8107 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 159206F32B709339001B8107 /* LaunchScreen.storyboard */; };
-		159206FD2B709E26001B8107 /* project0_readme_template.md in Resources */ = {isa = PBXBuildFile; fileRef = 159206FC2B709E26001B8107 /* project0_readme_template.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		159206F12B709339001B8107 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		159206F42B709339001B8107 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		159206F62B709339001B8107 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		159206FC2B709E26001B8107 /* project0_readme_template.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = project0_readme_template.md; path = ../../../../Downloads/project0_readme_template.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +63,6 @@
 				159206F12B709339001B8107 /* Assets.xcassets */,
 				159206F32B709339001B8107 /* LaunchScreen.storyboard */,
 				159206F62B709339001B8107 /* Info.plist */,
-				159206FC2B709E26001B8107 /* project0_readme_template.md */,
 			);
 			path = "IOS101-Prework";
 			sourceTree = "<group>";
@@ -129,7 +126,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				159206F52B709339001B8107 /* LaunchScreen.storyboard in Resources */,
-				159206FD2B709E26001B8107 /* project0_readme_template.md in Resources */,
 				159206F22B709339001B8107 /* Assets.xcassets in Resources */,
 				159206F02B709337001B8107 /* Main.storyboard in Resources */,
 			);
